@@ -1,4 +1,4 @@
-# Hi, I'm Ankit 👋
+# Hi, I'm Ankit rajpoot 👋
 
 Frontend developer in the making | Building things with JavaScript
 
