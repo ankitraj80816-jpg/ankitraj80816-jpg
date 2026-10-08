@@ -1,6 +1,19 @@
-# Hi, I'm Ankit rajpoot 👋
+## 👨‍💻 About Me
 
-Frontend developer in the making | Building things with JavaScript
+Hi, I'm **Ankit Rajpoot**, a final-year **B.Tech Computer Science & Data Science** student at **Maharana Pratap Engineering College, Kanpur**.
+
+I'm a passionate **MERN Stack Developer** who enjoys building responsive, user-friendly and practical web applications. I have hands-on experience with **HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB and MySQL**.
+
+I enjoy solving programming problems, learning new technologies and working on real-world projects. My goal is to start my career in a growth-oriented organization where I can apply my skills, learn from experienced professionals and contribute to meaningful projects.
+
+### 🎯 Currently
+
+* 🎓 Final Year B.Tech CSE & Data Science Student
+* 💻 MERN Stack Developer
+* 🚀 Working on real-world web development projects
+* 📚 Improving my DSA and problem-solving skills
+* 🌱 Learning and exploring new technologies
+
 
 ## 🚀 Featured Project
 
